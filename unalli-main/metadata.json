@@ -1,0 +1,6 @@
+{
+  "name": "Ünallı İnşaat – Mimarlık ve İnşaat",
+  "description": "1994'ten bugüne modern mimarlık, villa, konut ve anahtar teslim tadilat projeleri üreten Ünallı İnşaat kurumsal web sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
